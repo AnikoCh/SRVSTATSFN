@@ -1,0 +1,15 @@
+{
+  "token": "-",
+  "prefix": "-",
+  "serverAddress": "-",
+  "serverPort": "-",
+  "serverName": "-",
+  "updateInterval": "1min",
+  "showPlayerSample": true,
+  "debugMode": true,
+  "debugLvl": 1,
+  "pinUpdate": true,
+  "pinId": "",
+  "pinGuildId": "-",
+  "pinChanId": "-"
+}
